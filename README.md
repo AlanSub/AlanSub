@@ -1,1 +1,2 @@
 - 👋 Hi, I'm a freelancer from Taiwan.
+- 10 years experiences in embedded software programming
