@@ -1,1 +1,1 @@
-- 👋 Hi, Please refer to Linkedin in www.linkedin.com/in/alan-liu-taiwan
+- 👋 Hi, I'm a freelancer from Taiwan.
