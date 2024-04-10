@@ -1,3 +1,3 @@
 - 👋 Hi, I'm a freelancer from Taiwan.
-- 10 years experiences in embedded software programming
-- Lua programming for Crank Storyboard 
+- I have 10 years experiences in embedded software programming, familar with C language
+- Recently, I am writing Lua program running on Crank Storyboard 
