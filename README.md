@@ -1,3 +1,3 @@
-- 👋 Hi, I'm a freelancer from Taiwan.
+- 👋 Hi, I'm Alan from Taiwan.
 - Have 10 years experiences in embedded software programming.
 
